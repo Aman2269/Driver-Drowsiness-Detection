@@ -1,0 +1,1 @@
+A real-time drowsiness detection system using OpenCV and Dlib. It identifies facial landmarks to monitor eye blinks and calculates the Eye Aspect Ratio (EAR) to classify states as “Active,” “Drowsy,” or “Sleeping.” It provides immediate feedback via visual alerts, ensuring safety in critical scenarios like driving.
